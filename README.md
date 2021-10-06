@@ -14,7 +14,7 @@
   Hey, MingLun here!
 </h2>
 
-<img align="right" src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="300" />
+<img align="right" src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="150" />
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MingLunWu)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@minglun-wu)
@@ -22,20 +22,21 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/明倫-吳-637020142/)
 [![Instagram](https://img.shields.io/badge/Photo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://github.com/hsins.gpg)
 
-<!--
 
-Hello! I'm **MingLun**. A data engineer from Taiwan 🇹🇼 who has a passion for learning new stuffs and sharing knowledge with others. Experienced in _**Natural Language Processing**_, _**Web Development**_ and _**Data Engineering**_. When I'm not in front of a screen, I'm probably playing the guitar, reading books, or clicking photos.
 
+Hello! I'm **MingLun**. A data engineer from Taiwan 🇹🇼 who has a passion for learning new stuffs and sharing knowledge with others. Experienced in _**Natural Language Processing**_, _**Micro Service**_ and _**Data Engineering**_. When I'm not in front of a screen, I'm probably playing the guitar, reading books, or clicking photos.
+
+🖊️
 #### ⚡️ A Few Quick Facts
 
-- 🎓 Alumnus of National Taiwan University ([NTU](http://www.bit.edu.cn/)), majoring in _Industrial & System Engineering_.
-- 🍻 Organizer of Taiwan TeX Users' Group ([TWTUG](https://t.me/TWTUG)).
-- 🌎 Translation contributor of [JabRef](https://www.jabref.org/), [Mudlet](https://www.mudlet.org/) and more.
-- 🌱 Currently learning about _serverless architectures_, _distributed systems_, and _Rust_.
-- ⚡ Writing code with _C++_ / _Go_ / _Java_ / _JavaScript_ / _Perl_ / _Python_.
-- 📫 Contact me via [hsinspeng@gmail.com](mailto:hsinspeng@gmail.com) or ask me questions on [AMA](https://github.com/Hsins/Hsins/discussions/new?category=ama).
+- 🎓 Master of National Sun Yat-Sen University ([NSYSU](https://www.nsysu.edu.tw)), majoring in _Information Management_.
+- 🍻 Author of [Medium](https://medium.com/@minglun-wu) and [Technical Blog](https://github.com/MingLunWu)
+- 📷 Photographer, Watch my photo album: [Instagram(_fade_relish_)](https://www.instagram.com/fade_relish/) 
+- 🌱 Currently learning about _Kubernetes_, _Airflow_, and _PostgreSQL_.
+- ⚡ Writing code with _Python_ / _Java_ / _Javascript_.
+- 📫 Contact me via [allen6997535@gmail.com](mailto:allen6997535@gmail.com).
 
-
+<!--
 - 🍻 Postgraduate student at 🇬🇧 [UofG](https://www.gla.ac.uk/), 1/2021 entry (_MSc in Computing Science_).
 - 🎓 🇨🇳 [BIT](http://www.bit.edu.cn/) Alumni (_BSc in Computer Science_). Research assistant at _Data & AI security Lab_, 2020.6 - 2021.1.
 - 👯 Building [Dev on Windows with WSL](https://dowww.spencerwoo.com/), [Substats](https://api.spencerwoo.com/substats/), [BIThesis](https://github.com/BITNP/BIThesis) and more.
