@@ -26,7 +26,7 @@
 
 Hello! I'm **MingLun**. A data engineer from Taiwan 🇹🇼 who has a passion for learning new stuffs and sharing knowledge with others. Experienced in _**Natural Language Processing**_, _**Micro Service**_ and _**Data Engineering**_. When I'm not in front of a screen, I'm probably playing the guitar, reading books, or clicking photos.
 
-🖊️
+
 #### ⚡️ A Few Quick Facts
 
 - 🎓 Master of National Sun Yat-Sen University ([NSYSU](https://www.nsysu.edu.tw)), majoring in _Information Management_.
