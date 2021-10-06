@@ -30,7 +30,7 @@ Hello! I'm **MingLun**. A data engineer from Taiwan 🇹🇼 who has a passion f
 #### ⚡️ A Few Quick Facts
 
 - 🎓 Master of National Sun Yat-Sen University ([NSYSU](https://www.nsysu.edu.tw)), majoring in _Information Management_.
-- 🍻 Author of [Medium](https://medium.com/@minglun-wu) and [Technical Blog](https://github.com/MingLunWu)
+- 🖊️ Author of [Medium](https://medium.com/@minglun-wu) and [Technical Blog](https://github.com/MingLunWu)
 - 📷 Photographer, Watch my photo album: [Instagram(_fade_relish_)](https://www.instagram.com/fade_relish/) 
 - 🌱 Currently learning about _Kubernetes_, _Airflow_, and _PostgreSQL_.
 - ⚡ Writing code with _Python_ / _Java_ / _Javascript_.
