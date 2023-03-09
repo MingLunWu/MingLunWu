@@ -17,10 +17,10 @@
 <img align="right" src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="150" />
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MingLunWu)
-[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://minglunwu.github.io)
+[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://minglunwu.com)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@minglun-wu)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/ming-lun-wu-637020142/)
-[![Instagram](https://img.shields.io/badge/Photo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://github.com/hsins.gpg)
+[![Instagram](https://img.shields.io/badge/Photo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://github.com/hsins.gpg](https://www.instagram.com/minglun.photo/))
 
 
 
@@ -31,7 +31,7 @@ Hello! I'm **MingLun**. A MLOps engineer from Taiwan 🇹🇼 who has a passion 
 
 - 🎓 M.B.A from National Sun Yat-Sen University ([NSYSU](https://www.nsysu.edu.tw)), majoring in _Information Management_.
 - 🖊️ Author of [Medium](https://medium.com/@minglun-wu) and [Technical Blog](https://minglunwu.com)
-- 📷 Photographer, Watch my photo album: [Instagram(_minglun.photo_)](https://www.instagram.com/fade_relish/) 
+- 📷 Photographer, Watch my photo album: [Instagram(_minglun.photo_)](https://www.instagram.com/minglun.photo/) 
 - 🌱 Currently learning about _Kubernetes_, _Airflow_, and _Azure DevOps_.
 <!-- - ⚡ Writing code with _Python_ / _Java_ / _Javascript_. -->
 - 📫 Contact me via [allen6997535@gmail.com](mailto:allen6997535@gmail.com).
