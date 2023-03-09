@@ -20,7 +20,7 @@
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://minglunwu.com)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@minglun-wu)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/ming-lun-wu-637020142/)
-[![Instagram](https://img.shields.io/badge/Photo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://github.com/hsins.gpg](https://www.instagram.com/minglun.photo/))
+[![Instagram](https://img.shields.io/badge/Photo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/minglun.photo/)
 
 
 
