@@ -33,8 +33,9 @@ Hello! I'm **MingLun**. A MLOps engineer from Taiwan 🇹🇼 who has a passion 
 - 🖊️ Author of [Medium](https://medium.com/@minglun-wu) and [Technical Blog](https://minglunwu.com)
 - 📷 Photographer, Watch my photo album: [Instagram(_minglun.photo_)](https://www.instagram.com/minglun.photo/) 
 - 🌱 Currently learning about _Kubernetes_, _Airflow_, and _Azure DevOps_.
-<!-- - ⚡ Writing code with _Python_ / _Java_ / _Javascript_. -->
 - 📫 Contact me via [allen6997535@gmail.com](mailto:allen6997535@gmail.com).
+<!-- - ⚡ Writing code with _Python_ / _Java_ / _Javascript_. -->
+
 
 <!--
 - 🍻 Postgraduate student at 🇬🇧 [UofG](https://www.gla.ac.uk/), 1/2021 entry (_MSc in Computing Science_).
