@@ -24,7 +24,7 @@
 
 
 
-Hello! I'm **MingLun**. A data engineer from Taiwan 🇹🇼 who has a passion for learning new stuffs and sharing knowledge with others. Experienced in _**Natural Language Processing**_, _**Micro Service**_ and _**Data Engineering**_. When I'm not in front of a screen, I'm probably playing the guitar, reading books, or clicking photos.
+Hello! I'm **MingLun**. A MLOps engineer from Taiwan 🇹🇼 who has a passion for learning new stuffs and sharing knowledge with others. Experienced in _**Natural Language Processing**_, _**Micro Service**_ and _**Data Engineering**_. When I'm not in front of a screen, I'm probably playing the guitar, reading books, or clicking photos.
 
 
 #### ⚡️ A Few Quick Facts
@@ -33,7 +33,7 @@ Hello! I'm **MingLun**. A data engineer from Taiwan 🇹🇼 who has a passion f
 - 🖊️ Author of [Medium](https://medium.com/@minglun-wu) and [Technical Blog](https://minglunwu.com)
 - 📷 Photographer, Watch my photo album: [Instagram(_minglun.photo_)](https://www.instagram.com/fade_relish/) 
 - 🌱 Currently learning about _Kubernetes_, _Airflow_, and _Azure DevOps_.
-- ⚡ Writing code with _Python_ / _Java_ / _Javascript_.
+<!-- - ⚡ Writing code with _Python_ / _Java_ / _Javascript_. -->
 - 📫 Contact me via [allen6997535@gmail.com](mailto:allen6997535@gmail.com).
 
 <!--
